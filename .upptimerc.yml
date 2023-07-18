@@ -6,6 +6,8 @@ sites:
     url: https://www.headache.or.kr/index.php
   - name: migrainecluster.com
     url: http://www.migrainecluster.com/
+  - name: headache_m.one-page.co.kr
+    url: http://headache_m.one-page.co.kr/
         
 status-website:
   cname: khs.status.migraine.kr
