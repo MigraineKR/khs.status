@@ -12,7 +12,7 @@ sites:
 status-website:
   cname: khs.status.migraine.kr
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status | Korean Headache Society
+  name: Status | KHS
   introTitle: "**Status** for Korean Headache Society"
   introMessage: 대한두통학회 웹모니터
   navbar:
