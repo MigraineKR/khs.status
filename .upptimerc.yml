@@ -18,8 +18,12 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Website
+      href: https://www.headache.or.kr/
     - title: YouTube
       href: https://www.youtube.com/@headache-kr
+    - title: Paper
+      href: https://www.headache.or.kr/bbs/board.php?bo_table=paper
     - title: Hospital
       href: http://www.migrainecluster.com/search/lists/all
 
