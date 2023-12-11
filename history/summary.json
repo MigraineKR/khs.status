@@ -22,19 +22,19 @@
     "url": "http://www.migrainecluster.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 918,
-    "timeDay": 777,
-    "timeWeek": 894,
-    "timeMonth": 1048,
+    "timeDay": 840,
+    "timeWeek": 902,
+    "timeMonth": 1045,
     "timeYear": 918,
     "dailyMinutesDown": {
-      "2023-12-11": 0
+      "2023-12-11": 12
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "http://headache_m.one-page.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/headache_m.one-page.co.kr.ico",
     "slug": "headache-m-one-page-co-kr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 1193,
-    "timeDay": 1111,
-    "timeWeek": 1217,
-    "timeMonth": 1225,
+    "timeDay": 1146,
+    "timeWeek": 1216,
+    "timeMonth": 1224,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2023-12-11": 0
+      "2023-12-11": 12
     }
   }
 ]
