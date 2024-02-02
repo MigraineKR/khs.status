@@ -4,19 +4,20 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 2746,
-    "timeDay": 3076,
-    "timeWeek": 2902,
-    "timeMonth": 2621,
-    "timeYear": 2746,
+    "time": 2745,
+    "timeDay": 3117,
+    "timeWeek": 2906,
+    "timeMonth": 2633,
+    "timeYear": 2745,
     "dailyMinutesDown": {
-      "2024-02-01": 21
+      "2024-02-02": 0,
+      "2024-02-01": 16
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 910,
-    "timeDay": 708,
-    "timeWeek": 948,
-    "timeMonth": 905,
-    "timeYear": 910,
+    "time": 909,
+    "timeDay": 752,
+    "timeWeek": 911,
+    "timeMonth": 908,
+    "timeYear": 909,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1200,
-    "timeDay": 978,
-    "timeWeek": 1267,
-    "timeMonth": 1259,
-    "timeYear": 1200,
+    "time": 1199,
+    "timeDay": 990,
+    "timeWeek": 1222,
+    "timeMonth": 1260,
+    "timeYear": 1199,
     "dailyMinutesDown": {}
   }
 ]
