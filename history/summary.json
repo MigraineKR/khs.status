@@ -6,9 +6,9 @@
     "slug": "headache-or-kr",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.96%",
     "time": 2767,
     "timeDay": 2680,
@@ -16,7 +16,7 @@
     "timeMonth": 2767,
     "timeYear": 2767,
     "dailyMinutesDown": {
-      "2024-02-05": 17,
+      "2024-02-05": 27,
       "2024-02-04": 17,
       "2024-02-02": 59,
       "2024-02-01": 16
