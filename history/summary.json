@@ -4,7 +4,7 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "97.47%",
     "uptimeWeek": "98.27%",
@@ -16,6 +16,7 @@
     "timeMonth": 2758,
     "timeYear": 2762,
     "dailyMinutesDown": {
+      "2024-02-07": 0,
       "2024-02-06": 60,
       "2024-02-05": 22,
       "2024-02-04": 17,
