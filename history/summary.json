@@ -97,35 +97,39 @@
     "url": "http://www.migrainecluster.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 903,
-    "timeDay": 1121,
-    "timeWeek": 1121,
-    "timeMonth": 1121,
-    "timeYear": 904,
-    "dailyMinutesDown": {}
+    "timeDay": 970,
+    "timeWeek": 970,
+    "timeMonth": 970,
+    "timeYear": 903,
+    "dailyMinutesDown": {
+      "2024-08-21": 0
+    }
   },
   {
     "name": "headache_m.one-page.co.kr",
     "url": "http://headache_m.one-page.co.kr/",
     "icon": "https://icons.duckduckgo.com/ip3/headache_m.one-page.co.kr.ico",
     "slug": "headache-m-one-page-co-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1228,
-    "timeDay": 1238,
-    "timeWeek": 1238,
-    "timeMonth": 1238,
-    "timeYear": 1233,
-    "dailyMinutesDown": {}
+    "time": 1226,
+    "timeDay": 1065,
+    "timeWeek": 1065,
+    "timeMonth": 1065,
+    "timeYear": 1232,
+    "dailyMinutesDown": {
+      "2024-08-21": 0
+    }
   }
 ]
