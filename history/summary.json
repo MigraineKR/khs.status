@@ -6,14 +6,14 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "95.85%",
+    "uptimeDay": "97.90%",
     "uptimeWeek": "98.83%",
-    "uptimeMonth": "97.03%",
+    "uptimeMonth": "97.07%",
     "uptimeYear": "99.45%",
     "time": 2811,
-    "timeDay": 2334,
-    "timeWeek": 2770,
-    "timeMonth": 2708,
+    "timeDay": 2413,
+    "timeWeek": 2762,
+    "timeMonth": 2715,
     "timeYear": 2815,
     "dailyMinutesDown": {
       "2024-09-25": 30,
@@ -89,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 924,
-    "timeDay": 939,
-    "timeWeek": 1279,
-    "timeMonth": 1110,
-    "timeYear": 938,
+    "timeDay": 1163,
+    "timeWeek": 1264,
+    "timeMonth": 1111,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2024-08-21": 15
     }
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1221,
-    "timeDay": 971,
-    "timeWeek": 1226,
-    "timeMonth": 1149,
-    "timeYear": 1233,
+    "time": 1222,
+    "timeDay": 1480,
+    "timeWeek": 1254,
+    "timeMonth": 1154,
+    "timeYear": 1235,
     "dailyMinutesDown": {
       "2024-08-21": 15
     }
