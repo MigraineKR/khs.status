@@ -4,16 +4,16 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
     "uptimeDay": "96.08%",
     "uptimeWeek": "98.20%",
     "uptimeMonth": "97.93%",
     "uptimeYear": "99.52%",
     "time": 2807,
-    "timeDay": 3137,
-    "timeWeek": 2627,
-    "timeMonth": 2695,
+    "timeDay": 3444,
+    "timeWeek": 2632,
+    "timeMonth": 2699,
     "timeYear": 2815,
     "dailyMinutesDown": {
       "2024-10-14": 57,
@@ -63,8 +63,7 @@
       "2024-06-05": 74,
       "2024-06-01": 104,
       "2024-05-31": 72,
-      "2024-05-30": 1,
-      "2024-05-26": 18
+      "2024-05-30": 1
     }
   },
   {
@@ -79,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 933,
-    "timeDay": 1222,
-    "timeWeek": 1051,
-    "timeMonth": 1132,
+    "timeDay": 953,
+    "timeWeek": 1032,
+    "timeMonth": 1135,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2024-08-21": 15
@@ -98,11 +97,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1220,
-    "timeDay": 1339,
-    "timeWeek": 1121,
-    "timeMonth": 1176,
-    "timeYear": 1237,
+    "time": 1219,
+    "timeDay": 941,
+    "timeWeek": 1078,
+    "timeMonth": 1177,
+    "timeYear": 1236,
     "dailyMinutesDown": {
       "2024-08-21": 15
     }
