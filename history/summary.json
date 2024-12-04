@@ -6,17 +6,17 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "93.03%",
-    "uptimeWeek": "96.36%",
-    "uptimeMonth": "96.10%",
+    "uptimeDay": "93.92%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "96.13%",
     "uptimeYear": "99.50%",
     "time": 2798,
-    "timeDay": 2531,
-    "timeWeek": 2439,
-    "timeMonth": 2640,
-    "timeYear": 2803,
+    "timeDay": 2582,
+    "timeWeek": 2434,
+    "timeMonth": 2643,
+    "timeYear": 2800,
     "dailyMinutesDown": {
-      "2024-12-03": 101,
+      "2024-12-03": 88,
       "2024-12-02": 19,
       "2024-12-01": 52,
       "2024-11-30": 90,
@@ -58,7 +58,7 @@
       "2024-10-18": 21,
       "2024-10-17": 27,
       "2024-10-16": 156,
-      "2024-10-14": 58
+      "2024-10-14": 75
     }
   },
   {
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 953,
-    "timeDay": 1210,
-    "timeWeek": 1115,
-    "timeMonth": 1085,
-    "timeYear": 969,
+    "timeDay": 1196,
+    "timeWeek": 1111,
+    "timeMonth": 1093,
+    "timeYear": 970,
     "dailyMinutesDown": {
       "2024-08-21": 15
     }
@@ -92,10 +92,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1220,
-    "timeDay": 1294,
-    "timeWeek": 1189,
-    "timeMonth": 1229,
+    "time": 1221,
+    "timeDay": 1300,
+    "timeWeek": 1180,
+    "timeMonth": 1242,
     "timeYear": 1234,
     "dailyMinutesDown": {
       "2024-08-21": 15
