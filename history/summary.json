@@ -6,17 +6,17 @@
     "slug": "headache-or-kr",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "97.43%",
-    "uptimeWeek": "96.00%",
-    "uptimeMonth": "95.77%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "96.07%",
     "uptimeYear": "99.45%",
     "time": 2767,
     "timeDay": 2487,
     "timeWeek": 2421,
-    "timeMonth": 2519,
+    "timeMonth": 2520,
     "timeYear": 2768,
     "dailyMinutesDown": {
-      "2025-04-26": 37,
+      "2025-04-26": 24,
       "2025-04-25": 110,
       "2025-04-24": 30,
       "2025-04-23": 47,
@@ -60,7 +60,7 @@
       "2025-03-07": 91,
       "2025-03-05": 48,
       "2025-03-04": 60,
-      "2025-03-03": 19
+      "2025-03-03": 41
     }
   },
   {
