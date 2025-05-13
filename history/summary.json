@@ -4,8 +4,8 @@
     "url": "https://www.headache.or.kr/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.headache.or.kr.ico",
     "slug": "headache-or-kr",
-    "status": "up",
-    "uptime": "99.68%",
+    "status": "down",
+    "uptime": "99.69%",
     "uptimeDay": "98.53%",
     "uptimeWeek": "96.71%",
     "uptimeMonth": "96.39%",
@@ -62,8 +62,7 @@
       "2025-03-23": 63,
       "2025-03-22": 70,
       "2025-03-21": 15,
-      "2025-03-20": 91,
-      "2025-03-19": 24
+      "2025-03-20": 91
     }
   },
   {
