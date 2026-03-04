@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 2633,
-    "timeDay": 2285,
-    "timeWeek": 2185,
-    "timeMonth": 2249,
-    "timeYear": 2607,
+    "timeDay": 2522,
+    "timeWeek": 2186,
+    "timeMonth": 2263,
+    "timeYear": 2608,
     "dailyMinutesDown": {
       "2025-09-02": 74,
       "2025-09-01": 129,
@@ -42,18 +42,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "75.15%",
+    "uptime": "75.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "34.39%",
+    "uptimeYear": "34.12%",
     "time": 1158,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1171,
+    "timeYear": 1170,
     "dailyMinutesDown": {
-      "2026-03-03": 171,
+      "2026-03-04": 163,
+      "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
@@ -297,8 +298,7 @@
       "2025-07-01": 51,
       "2025-06-02": 83,
       "2025-05-02": 40,
-      "2025-03-28": 25,
-      "2025-03-04": 210
+      "2025-03-28": 25
     }
   },
   {
@@ -307,18 +307,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/headache_m.one-page.co.kr.ico",
     "slug": "headache-m-one-page-co-kr",
     "status": "down",
-    "uptime": "72.39%",
+    "uptime": "72.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "27.50%",
+    "uptimeYear": "27.22%",
     "time": 1369,
-    "timeDay": 1128,
-    "timeWeek": 1339,
+    "timeDay": 1317,
+    "timeWeek": 1323,
     "timeMonth": 1453,
     "timeYear": 1420,
     "dailyMinutesDown": {
-      "2026-03-03": 171,
+      "2026-03-04": 164,
+      "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
       "2026-02-28": 1440,
@@ -586,8 +587,7 @@
       "2025-06-11": 398,
       "2025-06-02": 83,
       "2025-05-02": 39,
-      "2025-03-28": 25,
-      "2025-03-04": 209
+      "2025-03-28": 25
     }
   }
 ]
