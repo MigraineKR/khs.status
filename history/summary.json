@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 2600,
-    "timeDay": 2573,
-    "timeWeek": 2443,
-    "timeMonth": 2190,
-    "timeYear": 2520,
+    "timeDay": 2738,
+    "timeWeek": 2514,
+    "timeMonth": 2202,
+    "timeYear": 2521,
     "dailyMinutesDown": {
       "2025-09-02": 74,
       "2025-09-01": 129,
@@ -42,18 +42,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "73.32%",
+    "uptime": "73.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "27.85%",
-    "time": 1166,
+    "uptimeYear": "27.58%",
+    "time": 1165,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1175,
+    "timeYear": 1179,
     "dailyMinutesDown": {
-      "2026-03-27": 202,
+      "2026-03-28": 172,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
@@ -320,8 +321,7 @@
       "2025-07-06": 94,
       "2025-07-01": 51,
       "2025-06-02": 83,
-      "2025-05-02": 40,
-      "2025-03-28": 25
+      "2025-05-02": 40
     }
   },
   {
@@ -330,18 +330,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/headache_m.one-page.co.kr.ico",
     "slug": "headache-m-one-page-co-kr",
     "status": "down",
-    "uptime": "70.62%",
+    "uptime": "70.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "20.95%",
+    "uptimeYear": "20.69%",
     "time": 1372,
-    "timeDay": 1549,
-    "timeWeek": 1391,
-    "timeMonth": 1293,
-    "timeYear": 1424,
+    "timeDay": 1653,
+    "timeWeek": 1320,
+    "timeMonth": 1286,
+    "timeYear": 1426,
     "dailyMinutesDown": {
-      "2026-03-27": 202,
+      "2026-03-28": 172,
+      "2026-03-27": 1440,
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 1440,
@@ -632,8 +633,7 @@
       "2025-06-12": 1440,
       "2025-06-11": 398,
       "2025-06-02": 83,
-      "2025-05-02": 39,
-      "2025-03-28": 25
+      "2025-05-02": 39
     }
   }
 ]
