@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 2468,
-    "timeDay": 2491,
-    "timeWeek": 2181,
-    "timeMonth": 2221,
+    "timeDay": 2591,
+    "timeWeek": 2193,
+    "timeMonth": 2236,
     "timeYear": 2455,
     "dailyMinutesDown": {
       "2025-08-16": 201,
@@ -42,18 +42,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "65.79%",
+    "uptime": "65.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 800,
-    "timeDay": 44,
+    "time": 796,
+    "timeDay": 34,
     "timeWeek": 53,
     "timeMonth": 65,
     "timeYear": 61,
     "dailyMinutesDown": {
-      "2026-07-18": 197,
+      "2026-07-19": 218,
+      "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -416,8 +417,7 @@
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
-      "2025-07-20": 1440,
-      "2025-07-19": 1440
+      "2025-07-20": 1440
     }
   },
   {
@@ -426,18 +426,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/headache_m.one-page.co.kr.ico",
     "slug": "headache-m-one-page-co-kr",
     "status": "down",
-    "uptime": "63.34%",
+    "uptime": "63.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1318,
-    "timeDay": 915,
-    "timeWeek": 578,
-    "timeMonth": 692,
-    "timeYear": 1331,
+    "time": 1316,
+    "timeDay": 365,
+    "timeWeek": 582,
+    "timeMonth": 673,
+    "timeYear": 1329,
     "dailyMinutesDown": {
-      "2026-07-18": 197,
+      "2026-07-19": 218,
+      "2026-07-18": 1440,
       "2026-07-17": 1440,
       "2026-07-16": 1440,
       "2026-07-15": 1440,
@@ -800,8 +801,7 @@
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
-      "2025-07-20": 1440,
-      "2025-07-19": 1440
+      "2025-07-20": 1440
     }
   }
 ]
