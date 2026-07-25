@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
-    "time": 2457,
-    "timeDay": 2381,
-    "timeWeek": 2317,
-    "timeMonth": 2204,
-    "timeYear": 2449,
+    "time": 2456,
+    "timeDay": 2192,
+    "timeWeek": 2275,
+    "timeMonth": 2207,
+    "timeYear": 2442,
     "dailyMinutesDown": {
       "2025-08-16": 201,
       "2025-08-17": 210,
@@ -42,18 +42,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "65.43%",
+    "uptime": "65.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 765,
-    "timeDay": 30,
+    "time": 757,
+    "timeDay": 42,
     "timeWeek": 57,
     "timeMonth": 65,
     "timeYear": 61,
     "dailyMinutesDown": {
-      "2026-07-24": 212,
+      "2026-07-25": 209,
+      "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -416,8 +417,7 @@
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
-      "2025-07-26": 1440,
-      "2025-07-25": 1440
+      "2025-07-26": 1440
     }
   },
   {
@@ -426,18 +426,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/headache_m.one-page.co.kr.ico",
     "slug": "headache-m-one-page-co-kr",
     "status": "down",
-    "uptime": "62.99%",
+    "uptime": "62.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1307,
-    "timeDay": 672,
-    "timeWeek": 567,
-    "timeMonth": 639,
-    "timeYear": 1317,
+    "time": 1306,
+    "timeDay": 489,
+    "timeWeek": 506,
+    "timeMonth": 630,
+    "timeYear": 1316,
     "dailyMinutesDown": {
-      "2026-07-24": 212,
+      "2026-07-25": 209,
+      "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -800,8 +801,7 @@
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
-      "2025-07-26": 1440,
-      "2025-07-25": 1440
+      "2025-07-26": 1440
     }
   }
 ]
