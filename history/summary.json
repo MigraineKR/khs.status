@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.39%",
     "time": 2440,
-    "timeDay": 2148,
-    "timeWeek": 2287,
-    "timeMonth": 2218,
-    "timeYear": 2425,
+    "timeDay": 2287,
+    "timeWeek": 2334,
+    "timeMonth": 2216,
+    "timeYear": 2427,
     "dailyMinutesDown": {
       "2025-08-16": 201,
       "2025-08-17": 210,
@@ -42,18 +42,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "64.62%",
+    "uptime": "64.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 680,
-    "timeDay": 70,
-    "timeWeek": 59,
-    "timeMonth": 53,
+    "time": 673,
+    "timeDay": 96,
+    "timeWeek": 68,
+    "timeMonth": 55,
     "timeYear": 59,
     "dailyMinutesDown": {
-      "2026-08-07": 190,
+      "2026-08-08": 127,
+      "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -416,8 +417,7 @@
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
-      "2025-08-09": 1440,
-      "2025-08-08": 1440
+      "2025-08-09": 1440
     }
   },
   {
@@ -426,18 +426,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/headache_m.one-page.co.kr.ico",
     "slug": "headache-m-one-page-co-kr",
     "status": "down",
-    "uptime": "62.20%",
+    "uptime": "62.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1293,
-    "timeDay": 642,
-    "timeWeek": 858,
-    "timeMonth": 617,
-    "timeYear": 1286,
+    "time": 1292,
+    "timeDay": 537,
+    "timeWeek": 843,
+    "timeMonth": 623,
+    "timeYear": 1282,
     "dailyMinutesDown": {
-      "2026-08-07": 190,
+      "2026-08-08": 127,
+      "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -800,8 +801,7 @@
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
-      "2025-08-09": 1440,
-      "2025-08-08": 1440
+      "2025-08-09": 1440
     }
   }
 ]
