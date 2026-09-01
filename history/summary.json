@@ -9,14 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 2380,
-    "timeDay": 2197,
-    "timeWeek": 2175,
-    "timeMonth": 2229,
-    "timeYear": 2273,
+    "uptimeYear": "99.96%",
+    "time": 2329,
+    "timeDay": 1524,
+    "timeWeek": 2076,
+    "timeMonth": 2215,
+    "timeYear": 2257,
     "dailyMinutesDown": {
-      "2025-09-01": 129,
       "2025-09-02": 74
     }
   },
@@ -26,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "63.26%",
+    "uptime": "63.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 539,
-    "timeDay": 46,
-    "timeWeek": 66,
-    "timeMonth": 68,
-    "timeYear": 62,
+    "time": 532,
+    "timeDay": 178,
+    "timeWeek": 86,
+    "timeMonth": 73,
+    "timeYear": 63,
     "dailyMinutesDown": {
-      "2026-08-31": 317,
+      "2026-09-01": 291,
+      "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -400,8 +400,7 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
-      "2025-09-02": 1440,
-      "2025-09-01": 1440
+      "2025-09-02": 1440
     }
   },
   {
@@ -410,18 +409,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/headache_m.one-page.co.kr.ico",
     "slug": "headache-m-one-page-co-kr",
     "status": "down",
-    "uptime": "60.89%",
+    "uptime": "60.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1265,
-    "timeDay": 500,
-    "timeWeek": 615,
-    "timeMonth": 692,
-    "timeYear": 1224,
+    "time": 1264,
+    "timeDay": 862,
+    "timeWeek": 664,
+    "timeMonth": 699,
+    "timeYear": 1223,
     "dailyMinutesDown": {
-      "2026-08-31": 317,
+      "2026-09-01": 291,
+      "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -784,8 +784,7 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
-      "2025-09-02": 1440,
-      "2025-09-01": 1440
+      "2025-09-02": 1440
     }
   }
 ]
