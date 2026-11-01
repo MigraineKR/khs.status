@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 2290,
-    "timeDay": 1657,
-    "timeWeek": 2161,
-    "timeMonth": 2208,
-    "timeYear": 2324,
+    "timeDay": 2379,
+    "timeWeek": 2149,
+    "timeMonth": 2214,
+    "timeYear": 2325,
     "dailyMinutesDown": {
       "2026-09-04": 268
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.migrainecluster.com.ico",
     "slug": "migrainecluster-com",
     "status": "down",
-    "uptime": "60.06%",
+    "uptime": "60.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 176,
-    "timeDay": 47,
-    "timeWeek": 90,
+    "time": 168,
+    "timeDay": 42,
+    "timeWeek": 85,
     "timeMonth": 100,
     "timeYear": 74,
     "dailyMinutesDown": {
-      "2026-10-31": 317,
+      "2026-11-01": 346,
+      "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -399,8 +400,7 @@
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
-      "2025-11-02": 1440,
-      "2025-11-01": 1440
+      "2025-11-02": 1440
     }
   },
   {
@@ -409,18 +409,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/headache_m.one-page.co.kr.ico",
     "slug": "headache-m-one-page-co-kr",
     "status": "down",
-    "uptime": "57.80%",
+    "uptime": "57.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1186,
-    "timeDay": 524,
-    "timeWeek": 664,
-    "timeMonth": 669,
-    "timeYear": 1112,
+    "time": 1185,
+    "timeDay": 835,
+    "timeWeek": 654,
+    "timeMonth": 672,
+    "timeYear": 1110,
     "dailyMinutesDown": {
-      "2026-10-31": 317,
+      "2026-11-01": 346,
+      "2026-10-31": 1440,
       "2026-10-30": 1440,
       "2026-10-29": 1440,
       "2026-10-28": 1440,
@@ -783,8 +784,7 @@
       "2025-11-05": 1440,
       "2025-11-04": 1440,
       "2025-11-03": 1440,
-      "2025-11-02": 1440,
-      "2025-11-01": 1440
+      "2025-11-02": 1440
     }
   }
 ]
